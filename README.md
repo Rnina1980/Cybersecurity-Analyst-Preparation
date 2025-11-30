@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="pngtree-cyber-security-blue-technology-background-picture-image_15514539.jpg" width="100%" alt="Cybersecurity Analyst Preparation Banner">
+</p>
+
 # Cybersecurity-Analyst-Preparation
 Cybersecurity Analyst Preparation – EDR • SIEM • SOAR • VM • AI/ML
 
@@ -121,7 +125,5 @@ Study sheets
 If you're a recruiter or cybersecurity leader reviewing my work, feel free to connect.
 
 
-<p align="center">
-  <img src="pngtree-cyber-security-blue-technology-background-picture-image_15514539.jpg" width="100%" alt="Cybersecurity Analyst Preparation Banner">
-</p>
+
 
